@@ -52,7 +52,7 @@ Displayed as: `strong_matches / total_responses`
 
 ## Usage
 
-1. Load extension in Burp (Extender → Extensions)
+1. Load extension in Burp
 2. Browse target via Proxy
 3. Open **OriginIpAutoDetect** tab
 4. (Optional) Import HTTP history or Site Map
