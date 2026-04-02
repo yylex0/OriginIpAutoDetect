@@ -75,3 +75,7 @@ For authorized security testing only.
 ## License
 
 MIT License
+
+## Author
+
+Raghav Vivek (YourCompanyName)
