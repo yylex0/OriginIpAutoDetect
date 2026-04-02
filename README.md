@@ -74,4 +74,4 @@ MIT License
 
 ## Author
 
-Raghav Vivekanandan @ Ashtaksha Labs
+Raghav Vivekanandan
