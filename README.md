@@ -66,12 +66,6 @@ Displayed as: `strong_matches / total_responses`
 
 ---
 
-## Disclaimer
-
-For authorized security testing only.
-
----
-
 ## License
 
 MIT License
