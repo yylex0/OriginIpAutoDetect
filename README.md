@@ -76,6 +76,8 @@ For authorized security testing only.
 
 MIT License
 
+---
+
 ## Author
 
-Raghav Vivek (YourCompanyName)
+Raghav Vivekanandan @ Ashtaksha Labs
